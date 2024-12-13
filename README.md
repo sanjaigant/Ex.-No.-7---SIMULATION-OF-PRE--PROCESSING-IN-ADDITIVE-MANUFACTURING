@@ -1,5 +1,5 @@
-# Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 13/12/2024
+# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 13.12.2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,12 +39,18 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![image](https://github.com/Raji1009/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/59646bc2-c1a9-46f3-a860-e3fed681930b)
-![image](https://github.com/Raji1009/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/15bce04a-2795-4249-9377-72085bf82cf4)
+![image](https://github.com/user-attachments/assets/d7254edd-6739-47a7-b8dc-7e881094f082)
+![image](https://github.com/user-attachments/assets/b25e60f1-6d0b-4c54-a7d6-88012d3a5690)
+![image](https://github.com/user-attachments/assets/83481a83-5f90-4d18-8250-7b83f9e5d20a)
 
 
-### Name: sanjai ganth.B
-### Register Number: 24006814
+
+## Output:
+![image](https://github.com/user-attachments/assets/6b0ddcc3-3ed4-4865-8057-4432bfa07e9d)
+
+
+### Name:sanjai ganth.B
+### Register Number:24006814
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
