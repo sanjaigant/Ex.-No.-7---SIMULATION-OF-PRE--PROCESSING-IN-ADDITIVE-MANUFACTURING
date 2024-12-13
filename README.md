@@ -46,8 +46,8 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/ec7fb1ca-7a80-4120-9a27-0bf44afdac21)
 
-### Name:A.RAFSHAAN AHMED
-### Register Number:24005401
+### Name:sanjai gantj.B
+### Register Number:24006814
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
