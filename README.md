@@ -46,7 +46,7 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/ec7fb1ca-7a80-4120-9a27-0bf44afdac21)
 
-### Name:sanjai gantj.B
+### Name:sanjai ganth.B
 ### Register Number:24006814
 
 ## Result: 
